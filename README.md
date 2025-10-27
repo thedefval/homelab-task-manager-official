@@ -27,8 +27,8 @@ A local-first, Git-based task management system designed for homelab enthusiasts
 
 ```bash
 # Clone the repository
-git clone https://github.com/thedefval/homelab-task-manager.git
-cd homelab-task-manager
+git clone https://github.com/thedefval/homelab-task-manager-official.git
+cd homelab-task-manager-official
 
 # Make scripts executable
 chmod +x scripts/*.sh scripts/*.py
