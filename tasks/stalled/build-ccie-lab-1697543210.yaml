@@ -1,0 +1,14 @@
+title: "Build CCIE Lab with Catalyst 3650 Switches"
+description: "Set up physical lab with 2x Catalyst 3650 switches and 2x 4331 routers for CCIE practice. Currently blocked waiting for equipment delivery. Estimated 1-2 days for delivery."
+category: lab-infrastructure
+priority: high
+status: stalled
+created: 2025-10-15 09:00:00 UTC
+updated: 2025-10-23 14:20:00 UTC
+tags:
+  - cisco
+  - ccie
+  - hardware
+  - lab-setup
+  - blocked
+private: false

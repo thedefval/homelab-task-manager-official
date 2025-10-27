@@ -1,0 +1,15 @@
+category: documentation
+created: 2025-10-23 09:30:00 UTC
+description: Create comprehensive documentation of the production network architecture
+  including VLANs, routing protocols, firewall rules, and security policies. For internal
+  use only.
+priority: medium
+private: true
+status: in_progress
+tags:
+- documentation
+- network-design
+- internal
+- architecture
+title: Document Network Architecture
+updated: 2025-10-27 09:02:46 UTC

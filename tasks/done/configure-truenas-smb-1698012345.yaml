@@ -1,0 +1,14 @@
+category: storage
+created: 2025-10-24 08:00:00 UTC
+description: Set up authenticated SMB shares for mobile device access. Configure user
+  permissions, disable guest access, and test from Android/iOS devices.
+priority: urgent
+private: false
+status: done
+tags:
+- truenas
+- smb
+- storage
+- mobile-access
+title: Configure TrueNAS SMB Shares
+updated: 2025-10-27 08:56:40 UTC

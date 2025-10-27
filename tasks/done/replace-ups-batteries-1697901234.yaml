@@ -1,0 +1,13 @@
+title: "Replace APC UPS Batteries"
+description: "Replaced battery pack in APC SMT2200RM2U with new RBC43 cartridge. Verified proper voltage and conducted runtime test. UPS now operational with full backup capacity."
+category: hardware
+priority: high
+status: done
+created: 2025-10-20 12:00:00 UTC
+updated: 2025-10-25 16:45:00 UTC
+tags:
+  - ups
+  - hardware
+  - maintenance
+  - apc
+private: false

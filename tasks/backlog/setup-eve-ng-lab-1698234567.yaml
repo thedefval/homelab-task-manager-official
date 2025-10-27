@@ -1,0 +1,13 @@
+title: "Setup EVE-NG Lab"
+description: "Install and configure EVE-NG Community Edition for network simulation and testing. Download from eve-ng.net and set up on dedicated VM with nested virtualization enabled."
+category: lab-infrastructure
+priority: high
+status: backlog
+created: 2025-10-26 10:00:00 UTC
+updated: 2025-10-26 10:00:00 UTC
+tags:
+  - virtualization
+  - networking
+  - lab-setup
+  - eve-ng
+private: false

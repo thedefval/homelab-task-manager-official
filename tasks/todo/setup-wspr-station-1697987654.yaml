@@ -1,0 +1,13 @@
+title: "Setup Ham Radio WSPR Station"
+description: "Configure automated WSPR beacon using IC-7300 and dedicated Linux laptop. Set up WSJT-X for continuous propagation monitoring and integrate with Proxmox for data logging and visualization."
+category: ham-radio
+priority: low
+status: todo
+created: 2025-10-22 15:00:00 UTC
+updated: 2025-10-26 08:00:00 UTC
+tags:
+  - ham-radio
+  - wspr
+  - propagation
+  - automation
+private: false
