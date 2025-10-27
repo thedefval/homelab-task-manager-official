@@ -45,7 +45,7 @@ pip install pyyaml --break-system-packages
 
 ```bash
 # Initialize git repository and install pre-commit hook
-./scripts/init-repo.sh thedefval
+./scripts/init-repo.sh yourusername
 
 # This will:
 # - Initialize git (if needed)
